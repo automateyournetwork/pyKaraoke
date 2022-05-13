@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "pyKaraoke"
+version = "1.0.1"
+description = "A bot that uses the musixmatch API to transform songs into Google Text-to-Speech"
+authors = ["John Capobianco <ptcapo@gmail.com>"]
+packages = [{ include = "pyKaraoke", from = "src"}]
+readme = "README.md"
+
+[tool.poetry.scripts]
+pyKaraoke = 'pyKaraoke.script:run'
+
+[tool.poetry.dependencies]
+python = "^3.8"
+rich-click = "^1.3.0"
+pymusixmatch = "^0.3"
+gTTS = "^2.2.4"
+rich = "^12.4.1"
+Jinja2 = "^3.1.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
