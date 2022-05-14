@@ -43,3 +43,5 @@
 [Mobb Deep - Shook Ones Part II](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Mobb%20Deep%20-%20Shook%20Ones%20Part%20II(pyKaraoke).mp3?raw=true)
 
 [Spin Doctors - Two Princes](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Spin%20Doctors%20-%20Two%20Princes(pyKaraoke).mp3?raw=true)
+
+[Radiohead - Karma Policy](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Radiohead%20-%20Karma%20Police(pyKaraoke).mp3?raw=true)
