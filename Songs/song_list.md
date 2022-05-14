@@ -15,3 +15,5 @@
 [Leonard Cohen - Bird On A Wire](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Leonard%20Cohen%20-%20Bird%20On%20A%20Wire(pyKaraoke).mp3?raw=true)
 
 [Toto - Mushanga](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Toto%20-%20Mushanga(pyKaraoke).mp3?raw=true)
+
+[The Killers - Human](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/The%20Killers%20-%20Human(pyKaraoke).mp3?raw=true)
