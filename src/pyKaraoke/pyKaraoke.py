@@ -52,11 +52,11 @@ class GetJson():
         print(mp3_output)
         mp3 = gTTS(text = mp3_output, lang=language)
         #Save MP3
-        mp3.save(f'Songs/{self.artist} - {self.title}(pyKaraoke).mp3')
+        mp3.save(f'{self.artist} - {self.title}(pyKaraoke).mp3')
         click.secho(
-          f"MP3 file created at { sys.path[0] }/{self.artist}_{self.title}.mp3",
+          f"MP3 file created at { sys.path[0] }/{self.artist}_{self.title}(pyKaraoke).mp3",
             fg='green')
-        webbrowser.open(f"{self.artist}_{self.title}.mp3")                  
+        webbrowser.open(f"{self.artist} - {self.title}(pyKaraoke).mp3")                  
 
 @click.command()
 @click.option('--token',

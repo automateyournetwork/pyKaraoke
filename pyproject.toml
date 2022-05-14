@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyKaraoke"
-version = "1.0.4"
+version = "1.0.10"
 description = "A bot that uses the musixmatch API to transform songs into Google Text-to-Speech"
 authors = ["John Capobianco <ptcapo@gmail.com>"]
 packages = [{ include = "pyKaraoke", from = "src"}]
