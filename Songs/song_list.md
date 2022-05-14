@@ -40,4 +40,4 @@
 
 [Mobb Deep - Quiet Storm](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Mobb%20Deep%20-%20Quiet%20Storm(pyKaraoke).mp3?raw=true)
 
-[Mobb Deep - Shook Ones Part II](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Mobb%20Deep%20-%Shook%20Ones%20Part%20II(pyKaraoke).mp3?raw=true)
+[Mobb Deep - Shook Ones Part II](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Mobb%20Deep%20-%20Shook%20Ones%20Part%20II(pyKaraoke).mp3?raw=true)
