@@ -1,2 +1,4 @@
 [Gordon Lightfoot - The Wreck of the Edmund Fitzgerald](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Gordon%20Lightfoot%20-%20The%20Wreck%20of%20the%20Edmund%20Fitzgerald(pyKaraoke).mp3?raw=true)
+
 [Tom Jones - Its Not Unusual](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Tom%20Jones%20-%20Its%20Not%20Unusual(pyKaraoke).mp3?raw=true)
+
