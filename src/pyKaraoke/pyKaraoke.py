@@ -5,7 +5,7 @@ from jinja2 import Environment, FileSystemLoader
 from musixmatch import Musixmatch
 from pathlib import Path
 from gtts import gTTS
-from rich import print_json
+from rich import print
 # -------------------------
 # Jinja2
 # -------------------------
@@ -30,18 +30,19 @@ class GetJson():
         title = self.title
         language = 'en-US'
         get_lyrics = musixmatch.matcher_lyrics_get(title, artist)
+        print(get_lyrics)
         if get_lyrics['message']['body']['lyrics']['lyrics_copyright'] != "Unfortunately we're not authorized to show these lyrics.":
             lyrics = get_lyrics['message']['body']['lyrics']['lyrics_body']
         else: 
             lyrics = "Unfortunately we're not authorized to sing these lyrics due to copyrights."
-        print_json(lyrics)
+        print(lyrics)
         template_dir = Path(__file__).resolve().parent
         env = Environment(loader=FileSystemLoader(str(template_dir)))
         mp3_template = env.get_template('song.j2')
         mp3_output = mp3_template.render(artist = artist,
             title = title,
             lyrics = lyrics)
-        print_json(mp3_output)
+        print(mp3_output)
         mp3 = gTTS(text = mp3_output, lang=language)
         #Save MP3
         mp3.save(f'{self.artist}_{self.title}.mp3')
