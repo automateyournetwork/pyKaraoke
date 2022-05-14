@@ -46,4 +46,6 @@
 
 [Radiohead - Karma Policy](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Radiohead%20-%20Karma%20Police(pyKaraoke).mp3?raw=true)
 
-[The Jacksons and Mick Jagger - State of Shock]()
+[The Jacksons and Mick Jagger - State of Shock](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/The%20Jacksons%20and%20Mick%20Jagger%20-%20State%20of%20Shock(pyKaraoke).mp3?raw=true)
+
+[Pearl Jam - Yellowledbetter](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Pearl%20Jam%20-%20Yellowledbetter(pyKaraoke).mp3?raw=true)
