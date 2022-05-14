@@ -53,3 +53,5 @@
 [Nas - I Can](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Nas%20-%20I%20can(pyKaraoke).mp3?raw=true)
 
 [Marvin Gaye - Inner City Blues](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Marvin%20Gaye%20-%20Inner%20City%20Blues(pyKaraoke).mp3?raw=true)
+
+[Nas - One Mic](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Nas%20-%20One%20Mic(pyKaraoke).mp3?raw=true)
