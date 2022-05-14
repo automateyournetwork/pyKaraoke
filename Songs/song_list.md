@@ -13,3 +13,5 @@
 [The Beatles - I Am the Walrus](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/The%20Beatles%20-%20I%20Am%20the%20Walrus(pyKaraoke).mp3?raw=true)
 
 [Leonard Cohen - Bird On A Wire](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Leonard%20Cohen%20-%20Bird%20On%20A%20Wire(pyKaraoke).mp3?raw=true)
+
+[Toto - Mushanga](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Toto%20-%20Mushanga(pyKaraoke).mp3?raw=true)
