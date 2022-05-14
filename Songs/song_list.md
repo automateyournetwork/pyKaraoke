@@ -33,3 +33,5 @@
 [Cypress Hill - How I Could Just Kill A Man](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Cypress%20Hill%20-%20How%20I%20Could%20Just%20Kill%20A%20Man(pyKaraoke).mp3?raw=true)
 
 [BTS - Stay](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/BTS%20-%20Stay(pyKaraoke).mp3?raw=true)
+
+[John Stafford Smith - The Star Spangled Banner](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/John%20Stafford%20Smith%20-%20The%20Star%20Spangled%20Banner(pyKaraoke).mp3?raw=true)
