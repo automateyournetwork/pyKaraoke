@@ -49,3 +49,5 @@
 [The Jacksons and Mick Jagger - State of Shock](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/The%20Jacksons%20and%20Mick%20Jagger%20-%20State%20of%20Shock(pyKaraoke).mp3?raw=true)
 
 [Pearl Jam - Yellowledbetter](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Pearl%20Jam%20-%20Yellowledbetter(pyKaraoke).mp3?raw=true)
+
+[Nas - I Can](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Nas%20-%20I%20Can(pyKaraoke).mp3?raw=true)
