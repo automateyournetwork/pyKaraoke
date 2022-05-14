@@ -21,3 +21,5 @@
 [311 - Down](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/311%20-%20Down(pyKaraoke).mp3?raw=true)
 
 [The Toadies - Possum Kingdom](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/The%20Toadies%20-%20Possum%20Kingdom(pyKaraoke).mp3?raw=true)
+
+[James - Sometimes](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/James%20-%20Sometimes(pyKaraoke).mp3?raw=true)
