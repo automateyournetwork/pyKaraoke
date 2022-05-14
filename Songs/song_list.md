@@ -50,4 +50,6 @@
 
 [Pearl Jam - Yellowledbetter](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Pearl%20Jam%20-%20Yellowledbetter(pyKaraoke).mp3?raw=true)
 
-[Nas - I Can](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Nas%20-%20I%20Can(pyKaraoke).mp3?raw=true)
+[Nas - I Can](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Nas%20-%20I%20can(pyKaraoke).mp3?raw=true)
+
+[Marvin Gaye - Inner City Blues](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Marvin%20Gaye%20-%20Inner%20City%20Blues(pyKaraoke).mp3?raw=true)
