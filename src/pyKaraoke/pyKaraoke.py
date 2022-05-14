@@ -1,12 +1,11 @@
 import sys
 import rich_click as click
-import json
 import webbrowser
 from jinja2 import Environment, FileSystemLoader
 from musixmatch import Musixmatch
 from pathlib import Path
 from gtts import gTTS
-from rich import print
+from rich import print_json
 # -------------------------
 # Jinja2
 # -------------------------
@@ -35,14 +34,14 @@ class GetJson():
             lyrics = get_lyrics['message']['body']['lyrics']['lyrics_body']
         else: 
             lyrics = "Unfortunately we're not authorized to sing these lyrics due to copyrights."
-        print (lyrics)
+        print_json(lyrics)
         template_dir = Path(__file__).resolve().parent
         env = Environment(loader=FileSystemLoader(str(template_dir)))
         mp3_template = env.get_template('song.j2')
         mp3_output = mp3_template.render(artist = artist,
             title = title,
             lyrics = lyrics)
-        print(mp3_output)
+        print_json(mp3_output)
         mp3 = gTTS(text = mp3_output, lang=language)
         #Save MP3
         mp3.save(f'{self.artist}_{self.title}.mp3')
