@@ -2,4 +2,4 @@
 
 [Tom Jones - Its Not Unusual](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Tom%20Jones%20-%20Its%20Not%20Unusual(pyKaraoke).mp3?raw=true)
 
-[A Tribe Called Quest - Scenario](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/.mp3?raw=true)
+[A Tribe Called Quest - Scenario](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/A%20Tribe%20Called%20Quest%20-%20Scenario(pyKaraoke).mp3?raw=true)
