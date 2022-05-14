@@ -25,3 +25,5 @@
 [James - Sometimes](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/James%20-%20Sometimes(pyKaraoke).mp3?raw=true)
 
 [Harry Dacre - Daisy Bell](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Harry%20Dacre%20-%20Daisy%20Bell(pyKaraoke).mp3?raw=true)
+
+[Rammstein - Du Hast](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Rammstein%2-%20Du%20Hast(pyKaraoke).mp3?raw=true)
