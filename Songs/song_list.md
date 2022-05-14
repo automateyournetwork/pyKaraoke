@@ -37,3 +37,5 @@
 [John Stafford Smith - The Star Spangled Banner](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/John%20Stafford%20Smith%20-%20The%20Star%20Spangled%20Banner(pyKaraoke).mp3?raw=true)
 
 [Tool - Lateralus](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Tool%20-%20Lateralus(pyKaraoke).mp3?raw=true)
+
+[Mobb Deep - Quiet Storm](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Mobb%20Deep%20-%20Quiet%20Storm(pyKaraoke).mp3?raw=true)
