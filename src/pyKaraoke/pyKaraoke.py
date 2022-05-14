@@ -31,10 +31,17 @@ class GetJson():
         language = 'en-US'
         get_lyrics = musixmatch.matcher_lyrics_get(title, artist)
         print(get_lyrics)
-        if get_lyrics['message']['body']['lyrics']['lyrics_copyright'] != "Unfortunately we're not authorized to show these lyrics.":
-            lyrics = get_lyrics['message']['body']['lyrics']['lyrics_body']
-        else: 
-            lyrics = "Unfortunately we're not authorized to sing these lyrics due to copyrights."
+        if get_lyrics['message']['header']['status_code'] == 200:
+            if get_lyrics['message']['body']['lyrics']['lyrics_copyright'] != "Unfortunately we're not authorized to show these lyrics.":
+                lyrics = get_lyrics['message']['body']['lyrics']['lyrics_body']
+            else: 
+                lyrics = "Unfortunately we're not authorized to sing these lyrics due to copyrights."
+        else:
+            if get_lyrics['message']['header']['status_code'] == 404:
+                lyrics = "Sorry but this song was not found."
+            else:
+                if get_lyrics['message']['header']['status_code'] == 401:
+                    lyrics = "You are not authorized check your token."
         print(lyrics)
         template_dir = Path(__file__).resolve().parent
         env = Environment(loader=FileSystemLoader(str(template_dir)))
@@ -45,7 +52,7 @@ class GetJson():
         print(mp3_output)
         mp3 = gTTS(text = mp3_output, lang=language)
         #Save MP3
-        mp3.save(f'{self.artist}_{self.title}.mp3')
+        mp3.save(f'Songs/{self.artist} - {self.title}(pyKaraoke).mp3')
         click.secho(
           f"MP3 file created at { sys.path[0] }/{self.artist}_{self.title}.mp3",
             fg='green')
