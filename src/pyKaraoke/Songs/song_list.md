@@ -1,1 +1,1 @@
-[The Wreck of the Edmund Fitzgerald](/Gordon Lightfoot - The Wreck of the Edmund Fitzgerald(pyKaraoke).mp3)
+[The Wreck of the Edmund Fitzgerald](Gordon Lightfoot - The Wreck of the Edmund Fitzgerald(pyKaraoke).mp3)
