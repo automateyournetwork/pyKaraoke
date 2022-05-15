@@ -59,3 +59,5 @@
 [Nas - Made You Look](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Nas%20-%20Made%20You%20Look(pyKaraoke).mp3?raw=true)
 
 [Zack Hemsey - Don't Get In My Way](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Zack%20Hemsey%20-%20Don't%20Get%20In%20My%20Way(pyKaraoke).mp3?raw=true)
+
+[Crown The Empire - Memories of a Broken Heart](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Crown%20The%20Empire%20-%20Memories%20of%20a%20Broken%20Heart(pyKaraoke).mp3?raw=true)
