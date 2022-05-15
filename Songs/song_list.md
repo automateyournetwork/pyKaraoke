@@ -55,3 +55,5 @@
 [Marvin Gaye - Inner City Blues](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Marvin%20Gaye%20-%20Inner%20City%20Blues(pyKaraoke).mp3?raw=true)
 
 [Nas - One Mic](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Nas%20-%20One%20Mic(pyKaraoke).mp3?raw=true)
+
+[Nas - Made You Look](https://github.com/automateyournetwork/pyKaraoke/blob/main/Songs/Nas%20-%20Made%20You%20Look(pyKaraoke).mp3?raw=true)
